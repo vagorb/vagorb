@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vassili.
-- 👀 I’m second year student in Taltech(Tallinn University of Technology). I study Informatics.
+- 👀 I’m a second year student in Taltech(Tallinn University of Technology). I study Informatics.
 - 🌱 I’m familiar with Java, Python, PHP, JavaScript, Node.js, Spring, HTML, CSS, SQL.
+- 🎃 I’m hardworking, responsible and an open-minded person. Currently looking for an internship opportunity.
 - 📫 Linkedin: https://www.linkedin.com/in/vassili-gorbat%C5%A1ov-80a808208/
 
 <!---
